@@ -9,7 +9,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git pokemon-browser
+   git clone https://github.com/SHEHANA-PAREETH/pokemon
    cd pokemon-browser
    ```
 
@@ -35,5 +35,4 @@
    npm run preview
    ```
 
-> Replace `https://github.com/<your-username>/<your-repo>.git` with the actual repository URL once the project is pushed to GitHub.
 
