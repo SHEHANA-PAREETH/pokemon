@@ -9,7 +9,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SHEHANA-PAREETH/pokemon
+   git clone https://github.com/SHEHANA-PAREETH/pokemon.git
    cd pokemon
    ```
 
