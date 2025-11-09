@@ -10,7 +10,7 @@ Small React application that consumes the public [PokéAPI](https://pokeapi.co/)
 
 ## Features
 
-- Paginated Pokémon list (5 Pokémon per page by default)
+- Paginated Pokémon list 
 - “View Details” button to load a Pokémon's name, id, weight, and sprite
 - Inline detail panel with loading and error states
 
